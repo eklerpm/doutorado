@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 0.12.0" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+<metadata><copyright author="OpenStreetMap contributors"/><link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2008-06-10T04:36:55Z</time></metadata>
+<trk><name>abboip</name><trkseg>
+<trkpt lat="37.787433" lon="-122.415005"><time>2008-06-10T04:36:55Z</time></trkpt>
+<trkpt lat="37.787459" lon="-122.41501"><time>2008-06-10T04:36:55Z</time></trkpt>
+<trkpt lat="37.788901" lon="-122.403684"><time>2008-06-10T04:38:06Z</time></trkpt>
+<trkpt lat="37.796894" lon="-122.405282"><time>2008-06-10T04:38:55Z</time></trkpt>
+<trkpt lat="37.797516" lon="-122.406183"><time>2008-06-10T04:39:06Z</time></trkpt>
+<trkpt lat="37.797549" lon="-122.406198"><time>2008-06-10T04:39:07Z</time></trkpt>
+<trkpt lat="37.797769" lon="-122.406486"><time>2008-06-10T04:39:10Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
